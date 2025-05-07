@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+
+# Logs and monitoring
+logs/
+*.monitor.csv
+*.log
+
+# Data files (optional, comment out if you want to include)
+*.csv
+
+# OS files
+.DS_Store
+
+# Model files and checkpoints
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/ 
