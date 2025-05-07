@@ -15,8 +15,8 @@ This project demonstrates the application of reinforcement learning (RL) to fina
 ## Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Yuta-Kondo/einforcement_stock_analysis.git
-   cd einforcement_stock_analysis
+   git clone https://github.com/Yuta-Kondo/reinforcement_stock_analysis.git
+   cd reinforcement_stock_analysis
    ```
 2. **Create a virtual environment and install dependencies:**
    ```bash
